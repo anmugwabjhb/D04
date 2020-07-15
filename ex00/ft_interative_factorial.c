@@ -6,15 +6,15 @@
 /*   By: anmugwab <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/13 08:38:25 by anmugwab          #+#    #+#             */
-/*   Updated: 2020/07/13 11:00:51 by anmugwab         ###   ########.fr       */
+/*   Updated: 2020/07/15 10:06:23 by anmugwab         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-int ft_interative_factorial(int nb)
+int		 ft_interative_factorial(int nb)
 {
-	int		 count;
-	int		 result;
+	int	 count;
+	int	 result;
 
 	count = 1;
 	result = nb;
